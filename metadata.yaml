@@ -1,4 +1,8 @@
 _repo: Trelawny-of-The-Wells-A-Comedietta-in-Four-Acts_47561
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47561-h/images/cover.jpg
 creator:
   author:
     agent_name: Pinero, Arthur Wing
@@ -19,6 +23,8 @@ description: Famous actress Rose Trelawney is willing to give up anything for he
   Pinero's comedy premiered at the Royal Court Theatre in 1898; it shows the transition
   from the melodrama popular in the mid-nineteenth century to the more realistic drawing
   room comedies of a later period.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47561#Trelawny-of-The-Wells-A-Comedietta-in-Four-Acts
 gutenberg_issued: '2014-12-06'
 gutenberg_type: Text
 identifiers:
